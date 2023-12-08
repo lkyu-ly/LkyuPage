@@ -43,20 +43,23 @@ interface CacheData {
 const siteStore = useSiteStore();
 
 function exportData() {
-	const data = {
-		data: siteStore.data,
-		settings: settingStore.settings,
-	};
-	const jsonStr = JSON.stringify(data);
-	const blob = new Blob([jsonStr], { type: 'application/json' });
+    const data = {
+        data: siteStore.data,
+        settings: settingStore.settings,
+    };
 
-	const url = URL.createObjectURL(blob);
-	const a = document.createElement('a');
-	a.download = `COMECOME_Data_${new Date().toLocaleString()}.json`;
-	a.href = url;
-	document.body.appendChild(a);
-	a.click();
-	URL.revokeObjectURL(url);
+    // 使用 JSON.stringify 并添加缩进参数
+    const jsonStr = JSON.stringify(data, null, 4); // 使用 4 个空格进行缩进
+
+    const blob = new Blob([jsonStr], { type: 'application/json' });
+
+    const url = URL.createObjectURL(blob);
+    const a = document.createElement('a');
+    a.download = `COMECOME_Data_${new Date().toLocaleString()}.json`;
+    a.href = url;
+    document.body.appendChild(a);
+    a.click();
+    URL.revokeObjectURL(url);
 }
 
 function importData() {
