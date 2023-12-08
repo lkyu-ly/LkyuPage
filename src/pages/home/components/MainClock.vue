@@ -10,11 +10,11 @@ const week = ref('');
 let timeInterval: NodeJS.Timer;
 
 function refreshTime() {
-	const now = dayjs().format('YYYY年MM月DD日 HH:mm');
+	const now = dayjs().format('YYYY年MM月DD日 HH:mm:ss');
 	const timeArr = now.split(' ');
 	date.value = timeArr[0];
 	time.value = timeArr[1];
-	if (!lunarDate.value || time.value === '00:00') {
+	if (!lunarDate.value || time.value === '00:00:00') {
 		getDate();
 	}
 	return refreshTime;
@@ -32,12 +32,12 @@ function getDate() {
 
 function timing() {
 	refreshTime();
-	const nowMinute = time.value;
+	const nowSecond = time.value;
 	timeInterval = setInterval(() => {
 		refreshTime();
-		if (nowMinute !== time.value) {
+		if (nowSecond !== time.value) {
 			clearInterval(timeInterval);
-			timeInterval = setInterval(refreshTime, 60000);
+			timeInterval = setInterval(refreshTime, 1000);
 		}
 	}, 1000);
 }
