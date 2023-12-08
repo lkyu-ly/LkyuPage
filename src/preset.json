@@ -25,7 +25,7 @@
                         {
                             "id": 1683445828852,
                             "name": "alist",
-                            "url": "http://.117.62.152:5244",
+                            "url": "http://127.0.0.1:5244",
                             "favicon": "",
                             "bgColor": "#2320c4"
                         },
@@ -78,7 +78,8 @@
                             "id": 1683445081186,
                             "name": "拼多多",
                             "url": "https://mobile.yangkeduo.com/",
-                            "favicon": ""
+                            "favicon": "",
+                            "bgColor": "#393429"
                         },
                         {
                             "id": 1683445175259,
@@ -261,10 +262,11 @@
                             "favicon": ""
                         },
                         {
-                            "id": 1683458953528,
-                            "name": "MybatisPlus",
-                            "url": "https://baomidou.com/pages/24112f/",
-                            "favicon": ""
+                            "id": 1702040501648,
+                            "name": "Termux|国光",
+                            "url": "https://www.sqlsec.com/2018/05/termux.html",
+                            "favicon": "",
+                            "bgColor": ""
                         }
                     ]
                 },
@@ -479,6 +481,45 @@
                             "id": 1702037320191,
                             "name": "热铁盒虚拟主机",
                             "url": "https://host.retiehe.com/",
+                            "favicon": "",
+                            "bgColor": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1702040174165,
+            "name": "资源",
+            "groupList": [
+                {
+                    "id": 1702040211245,
+                    "name": "网盘搜索",
+                    "siteList": [
+                        {
+                            "id": 1702040331579,
+                            "name": "易搜",
+                            "url": "https://yiso.fun/",
+                            "favicon": "https://yiso.fun/static/img/logo.png",
+                            "bgColor": ""
+                        }
+                    ]
+                },
+                {
+                    "id": 1702040439516,
+                    "name": "软件资源",
+                    "siteList": [
+                        {
+                            "id": 1702040470258,
+                            "name": "果核剥壳",
+                            "url": "https://www.ghxi.com/",
+                            "favicon": "",
+                            "bgColor": ""
+                        },
+                        {
+                            "id": 1702040482089,
+                            "name": "52破解",
+                            "url": "https://www.52pojie.cn/",
                             "favicon": "",
                             "bgColor": ""
                         }
@@ -706,7 +747,7 @@
     "settings": {
         "theme": "MoonWhite",
         "search": "Bing",
-        "iconStyle": "Plain",
+        "iconStyle": "Vivid",
         "siteStyle": "auto"
     }
 }
