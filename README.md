@@ -1,15 +1,14 @@
-
-# COME COME
+# LKYU PAGE
 
 ## 介绍
 
-[COME COME](https://comecome.cc) 是一款极简的网址导航工具，旨在为用户提供纯粹、简洁、高效的上网体验。
+[LKYU PAGE](https://start.lkyu.cf) 是一款极简的网址导航工具，它修改自 [COME COME](https://comecome.cc)，旨在为用户提供纯粹、简洁、高效的上网体验。
 
 它充分保留了基础的网址导航功能，同时在设计上力求简洁，让用户能够以最快的速度找到所需的网站。
 
-![index](https://comecome.cc/img/index.png)
+![index](https://start.lkyu.cf/img/index.png)
 
-![settings](https://comecome.cc/img/settings.png)
+![settings](https://start.lkyu.cf/img/settings.png)
 
 ## 功能
 
