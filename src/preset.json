@@ -312,7 +312,7 @@
                 },
                 {
                     "id": 1683447260831,
-                    "name": "平台",
+                    "name": "代码平台",
                     "siteList": [
                         {
                             "id": 1683447074735,
@@ -433,6 +433,54 @@
                             "name": "Can I Use",
                             "url": "https://caniuse.com/",
                             "favicon": ""
+                        }
+                    ]
+                },
+                {
+                    "id": 1702036728752,
+                    "name": "托管平台",
+                    "siteList": [
+                        {
+                            "id": 1702036746602,
+                            "name": "Vercel",
+                            "url": "https://vercel.com/dashboard",
+                            "favicon": "",
+                            "bgColor": ""
+                        },
+                        {
+                            "id": 1702036775082,
+                            "name": "DNSPod",
+                            "url": "https://console.dnspod.cn/dns/list",
+                            "favicon": "",
+                            "bgColor": ""
+                        },
+                        {
+                            "id": 1702036838011,
+                            "name": "Cloud Flare",
+                            "url": "https://dash.cloudflare.com/",
+                            "favicon": "",
+                            "bgColor": ""
+                        },
+                        {
+                            "id": 1702036873234,
+                            "name": "超级图床",
+                            "url": "https://www.superbed.cn/",
+                            "favicon": "",
+                            "bgColor": ""
+                        },
+                        {
+                            "id": 1702036917066,
+                            "name": "腾讯云函数",
+                            "url": "https://console.cloud.tencent.com/scf",
+                            "favicon": "",
+                            "bgColor": ""
+                        },
+                        {
+                            "id": 1702037320191,
+                            "name": "热铁盒虚拟主机",
+                            "url": "https://host.retiehe.com/",
+                            "favicon": "",
+                            "bgColor": ""
                         }
                     ]
                 }
