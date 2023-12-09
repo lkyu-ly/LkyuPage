@@ -16,14 +16,14 @@ function getIconClass(routeName: string) {
 </script>
 
 <template>
-	<div flex justify-between py-24 px="12 md:24 lg:48" :class="{ 'logo-head': 'logo_head' }">
+	<div flex justify-between py-0 px="12 md:24 lg:48" :class="{ 'logo-head': 'logo_head' }">
 		<RouterLink to="/">
 			<div text="$primary-c" flex-center text-16 style="font-weight: bold">
 				<img
 					decoding="async"
 					loading="lazy"
-					w-16
-					src="/favicon.png"
+					w-24
+					src="/favicon.ico"
 					inline-block
 					text-32
 					transition
@@ -38,6 +38,8 @@ function getIconClass(routeName: string) {
 				:to="toggleSetting() ? '/' : '/setting'"
 				i-carbon:settings
 				icon-btn
+				w-24
+				h-24
 			/>
 		</div>
 	</div>
