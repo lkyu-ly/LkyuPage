@@ -9,7 +9,7 @@ defineOptions({
 		<a
 			i-carbon:logo-github
 			icon-btn
-			href="https://github.com/artisanbox/comecome"
+			href="https://github.com/lkyu-ly/LkyuPage"
 			target="_blank"
 		/>
 	</div>

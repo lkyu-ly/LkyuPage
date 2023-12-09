@@ -21,11 +21,10 @@
 
 ## TODO
 
-- 用户配置同步云端
-
 ## 感谢
 
 - 你的使用
+- [@otaku502](https://github.com/otaku502)
 - [Moon-Web-Start](https://github.com/jic999/moon-web-start)
 - [0x3](https://0x3.com)
 
