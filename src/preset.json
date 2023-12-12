@@ -1,229 +1,6 @@
 {
     "data": [
         {
-            "id": 1682952453886,
-            "name": "日常",
-            "groupList": [
-                {
-                    "id": 1683445778020,
-                    "name": "工具",
-                    "siteList": [
-                        {
-                            "id": 1683445789571,
-                            "name": "快麦",
-                            "url": "https://erpb.superboss.cc/login.html",
-                            "favicon": "",
-                            "bgColor": ""
-                        },
-                        {
-                            "id": 1683445808052,
-                            "name": "抠图",
-                            "url": "https://www.tukeli.net/",
-                            "favicon": "",
-                            "bgColor": ""
-                        },
-                        {
-                            "id": 1683445828852,
-                            "name": "alist",
-                            "url": "http://127.0.0.1:5244",
-                            "favicon": "",
-                            "bgColor": "#2320c4"
-                        },
-                        {
-                            "id": 1683445842722,
-                            "name": "聚水潭",
-                            "url": "https://sc.scm121.com/manage/goods",
-                            "favicon": "",
-                            "bgColor": "#623070"
-                        },
-                        {
-                            "id": 1683445859621,
-                            "name": "工具导航",
-                            "url": "https://www.jspoo.com/",
-                            "favicon": "",
-                            "bgColor": ""
-                        },
-                        {
-                            "id": 1683445911490,
-                            "name": "网页时间",
-                            "url": "http://sj.otaku.ink/",
-                            "favicon": "",
-                            "bgColor": "#da5610"
-                        }
-                    ]
-                },
-                {
-                    "id": 1683444783560,
-                    "name": "购物",
-                    "siteList": [
-                        {
-                            "id": 1683444814662,
-                            "name": "京东",
-                            "url": "https://jd.com/",
-                            "favicon": ""
-                        },
-                        {
-                            "id": 1683444838999,
-                            "name": "淘宝",
-                            "url": "https://www.taobao.com/",
-                            "favicon": ""
-                        },
-                        {
-                            "id": 1683445009276,
-                            "name": "苏宁易购",
-                            "url": "https://www.suning.com/",
-                            "favicon": ""
-                        },
-                        {
-                            "id": 1683445081186,
-                            "name": "拼多多",
-                            "url": "https://mobile.yangkeduo.com/",
-                            "favicon": "",
-                            "bgColor": "#393429"
-                        },
-                        {
-                            "id": 1683445175259,
-                            "name": "网易严选",
-                            "url": "https://you.163.com/",
-                            "favicon": ""
-                        },
-                        {
-                            "id": 1683445251969,
-                            "name": "Amazon",
-                            "url": "https://www.amazon.com/",
-                            "favicon": ""
-                        }
-                    ]
-                },
-                {
-                    "id": 1683445511073,
-                    "name": "影视",
-                    "siteList": [
-                        {
-                            "id": 1683445552281,
-                            "name": "腾讯视频",
-                            "url": "https://v.qq.com/",
-                            "favicon": ""
-                        },
-                        {
-                            "id": 1683445577747,
-                            "name": "优酷",
-                            "url": "https://www.youku.com/",
-                            "favicon": ""
-                        },
-                        {
-                            "id": 1683445625624,
-                            "name": "芒果TV",
-                            "url": "https://www.mgtv.com/",
-                            "favicon": ""
-                        },
-                        {
-                            "id": 1683445638708,
-                            "name": "爱奇艺",
-                            "url": "https://www.iqiyi.com/",
-                            "favicon": ""
-                        },
-                        {
-                            "id": 1683445666116,
-                            "name": "乐视",
-                            "url": "https://www.le.com/",
-                            "favicon": ""
-                        },
-                        {
-                            "id": 1683445731544,
-                            "name": "西瓜视频",
-                            "url": "https://www.ixigua.com/",
-                            "favicon": ""
-                        }
-                    ]
-                },
-                {
-                    "id": 1691511355817,
-                    "name": "社交",
-                    "siteList": [
-                        {
-                            "id": 1691511367428,
-                            "name": "微博",
-                            "url": "https://weibo.com/",
-                            "favicon": ""
-                        },
-                        {
-                            "id": 1691511378165,
-                            "name": "知乎",
-                            "url": "https://www.zhihu.com/",
-                            "favicon": ""
-                        },
-                        {
-                            "id": 1691511387328,
-                            "name": "贴吧",
-                            "url": "https://tieba.baidu.com/",
-                            "favicon": ""
-                        },
-                        {
-                            "id": 1691511404536,
-                            "name": "豆瓣",
-                            "url": "https://www.douban.com/",
-                            "favicon": ""
-                        },
-                        {
-                            "id": 1691511425429,
-                            "name": "简书",
-                            "url": "https://www.jianshu.com/",
-                            "favicon": ""
-                        },
-                        {
-                            "id": 1691511442949,
-                            "name": "虎扑",
-                            "url": "https://bbs.hupu.com/",
-                            "favicon": ""
-                        }
-                    ]
-                },
-                {
-                    "id": 1683444576461,
-                    "name": "资讯",
-                    "siteList": [
-                        {
-                            "id": 1683444716130,
-                            "name": "腾讯网",
-                            "url": "https://www.qq.com/",
-                            "favicon": ""
-                        },
-                        {
-                            "id": 1683444736801,
-                            "name": "新浪网",
-                            "url": "https://www.sina.com.cn/",
-                            "favicon": ""
-                        },
-                        {
-                            "id": 1683444595590,
-                            "name": "今日头条",
-                            "url": "https://www.toutiao.com/",
-                            "favicon": ""
-                        },
-                        {
-                            "id": 1683444617455,
-                            "name": "环球网",
-                            "url": "https://www.huanqiu.com/",
-                            "favicon": ""
-                        },
-                        {
-                            "id": 1683444693580,
-                            "name": "搜狐网",
-                            "url": "https://www.sohu.com/",
-                            "favicon": ""
-                        },
-                        {
-                            "id": 1683444632615,
-                            "name": "虎嗅网",
-                            "url": "https://www.huxiu.com/",
-                            "favicon": ""
-                        }
-                    ]
-                }
-            ]
-        },
-        {
             "id": 1683446922689,
             "name": "开发",
             "groupList": [
@@ -232,10 +9,11 @@
                     "name": "文档",
                     "siteList": [
                         {
-                            "id": 1683458778330,
-                            "name": "MDN",
-                            "url": "https://developer.mozilla.org/",
-                            "favicon": ""
+                            "id": 1702040331579,
+                            "name": "易搜",
+                            "url": "https://yiso.fun/",
+                            "favicon": "https://yiso.fun/static/img/logo.png",
+                            "bgColor": "#800b28"
                         },
                         {
                             "id": 1683458919011,
@@ -483,6 +261,229 @@
                             "url": "https://host.retiehe.com/",
                             "favicon": "",
                             "bgColor": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1682952453886,
+            "name": "日常",
+            "groupList": [
+                {
+                    "id": 1683445778020,
+                    "name": "工具",
+                    "siteList": [
+                        {
+                            "id": 1683445789571,
+                            "name": "快麦",
+                            "url": "https://erpb.superboss.cc/login.html",
+                            "favicon": "",
+                            "bgColor": ""
+                        },
+                        {
+                            "id": 1683445808052,
+                            "name": "抠图",
+                            "url": "https://www.tukeli.net/",
+                            "favicon": "",
+                            "bgColor": ""
+                        },
+                        {
+                            "id": 1683445828852,
+                            "name": "alist",
+                            "url": "http://127.0.0.1:5244",
+                            "favicon": "",
+                            "bgColor": "#2320c4"
+                        },
+                        {
+                            "id": 1683445842722,
+                            "name": "聚水潭",
+                            "url": "https://sc.scm121.com/manage/goods",
+                            "favicon": "",
+                            "bgColor": "#623070"
+                        },
+                        {
+                            "id": 1683445859621,
+                            "name": "工具导航",
+                            "url": "https://www.jspoo.com/",
+                            "favicon": "",
+                            "bgColor": ""
+                        },
+                        {
+                            "id": 1683445911490,
+                            "name": "网页时间",
+                            "url": "http://sj.otaku.ink/",
+                            "favicon": "",
+                            "bgColor": "#da5610"
+                        }
+                    ]
+                },
+                {
+                    "id": 1683444783560,
+                    "name": "购物",
+                    "siteList": [
+                        {
+                            "id": 1683444814662,
+                            "name": "京东",
+                            "url": "https://jd.com/",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 1683444838999,
+                            "name": "淘宝",
+                            "url": "https://www.taobao.com/",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 1683445009276,
+                            "name": "苏宁易购",
+                            "url": "https://www.suning.com/",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 1683445081186,
+                            "name": "拼多多",
+                            "url": "https://mobile.yangkeduo.com/",
+                            "favicon": "",
+                            "bgColor": "#393429"
+                        },
+                        {
+                            "id": 1683445175259,
+                            "name": "网易严选",
+                            "url": "https://you.163.com/",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 1683445251969,
+                            "name": "Amazon",
+                            "url": "https://www.amazon.com/",
+                            "favicon": ""
+                        }
+                    ]
+                },
+                {
+                    "id": 1683445511073,
+                    "name": "影视",
+                    "siteList": [
+                        {
+                            "id": 1683445552281,
+                            "name": "腾讯视频",
+                            "url": "https://v.qq.com/",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 1683445577747,
+                            "name": "优酷",
+                            "url": "https://www.youku.com/",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 1683445625624,
+                            "name": "芒果TV",
+                            "url": "https://www.mgtv.com/",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 1683445638708,
+                            "name": "爱奇艺",
+                            "url": "https://www.iqiyi.com/",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 1683445666116,
+                            "name": "乐视",
+                            "url": "https://www.le.com/",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 1683445731544,
+                            "name": "西瓜视频",
+                            "url": "https://www.ixigua.com/",
+                            "favicon": ""
+                        }
+                    ]
+                },
+                {
+                    "id": 1691511355817,
+                    "name": "社交",
+                    "siteList": [
+                        {
+                            "id": 1691511367428,
+                            "name": "微博",
+                            "url": "https://weibo.com/",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 1691511378165,
+                            "name": "知乎",
+                            "url": "https://www.zhihu.com/",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 1691511387328,
+                            "name": "贴吧",
+                            "url": "https://tieba.baidu.com/",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 1691511404536,
+                            "name": "豆瓣",
+                            "url": "https://www.douban.com/",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 1691511425429,
+                            "name": "简书",
+                            "url": "https://www.jianshu.com/",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 1691511442949,
+                            "name": "虎扑",
+                            "url": "https://bbs.hupu.com/",
+                            "favicon": ""
+                        }
+                    ]
+                },
+                {
+                    "id": 1683444576461,
+                    "name": "资讯",
+                    "siteList": [
+                        {
+                            "id": 1683444716130,
+                            "name": "腾讯网",
+                            "url": "https://www.qq.com/",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 1683444736801,
+                            "name": "新浪网",
+                            "url": "https://www.sina.com.cn/",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 1683444595590,
+                            "name": "今日头条",
+                            "url": "https://www.toutiao.com/",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 1683444617455,
+                            "name": "环球网",
+                            "url": "https://www.huanqiu.com/",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 1683444693580,
+                            "name": "搜狐网",
+                            "url": "https://www.sohu.com/",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 1683444632615,
+                            "name": "虎嗅网",
+                            "url": "https://www.huxiu.com/",
+                            "favicon": ""
                         }
                     ]
                 }
