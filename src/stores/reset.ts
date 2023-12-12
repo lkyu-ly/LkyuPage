@@ -3,7 +3,6 @@ export const useResetModalStore = defineStore('modal_reset', () => {
 	const title = ref('');
 	const content = ref('');
 
-	let now = 0;
 	const afterCancel = ref(() => {});
 	const afterCommit = ref(() => {});
 	const finishCommit = ref(() => {});
@@ -18,7 +17,6 @@ export const useResetModalStore = defineStore('modal_reset', () => {
 			return;
 		}
 		isCommit = true;
-		now = Date.now();
 		resetVisible.value = false;
 		afterCommit.value();
 		setTimeout(() => {

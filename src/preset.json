@@ -10,9 +10,9 @@
                     "siteList": [
                         {
                             "id": 1702040331579,
-                            "name": "易搜",
-                            "url": "https://yiso.fun/",
-                            "favicon": "https://yiso.fun/static/img/logo.png",
+                            "name": "Valaxy",
+                            "url": "https://valaxy.site/guide/getting-started",
+                            "favicon": "",
                             "bgColor": "#800b28"
                         },
                         {
@@ -502,7 +502,7 @@
                             "name": "易搜",
                             "url": "https://yiso.fun/",
                             "favicon": "https://yiso.fun/static/img/logo.png",
-                            "bgColor": ""
+                            "bgColor": "#5b7eac"
                         }
                     ]
                 },
