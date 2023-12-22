@@ -1,4 +1,5 @@
 <script setup>
+import { SpeedInsights } from '@vercel/speed-insights/vue';
 import { RouterView } from 'vue-router';
 </script>
 
@@ -8,4 +9,5 @@ import { RouterView } from 'vue-router';
 			<RouterView />
 		</AppContainer>
 	</AppProvider>
+	<SpeedInsights />
 </template>
